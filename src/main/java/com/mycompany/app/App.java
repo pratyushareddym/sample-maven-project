@@ -1,4 +1,4 @@
-package com.jcg.maven;
+package com.mycompany.app;
 
 /**
  * Hello world!
